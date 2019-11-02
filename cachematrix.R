@@ -2,7 +2,6 @@
 ## data matrix and inverted data matrix. If inverted data matrix exists in cache, you can retrive 
 ##it  using getInverse...if not then you can calculate it and pass it to setInverse function and
 ## it will store it in cache. 
-## functions do
 
 
 ## this function creates a list of functions that can be called to store and retrive
